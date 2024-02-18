@@ -21,7 +21,9 @@ Before you begin working on the frontend, it's essential to set up the backend. 
 How to Use
 Clone this repository to your local machine using the following command:
 
-git clone https://github.com/Ojas-Pratap-Singh/sunbasefronted.git
+git clone https://github.com/Ojas-Pratap-Singh/sunbasefronted.git        
+<br>
+go to index.html page and open in live server , then login in with username and password given below .
 
 # Log in using the following credentials:
 
