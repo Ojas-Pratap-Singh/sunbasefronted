@@ -23,7 +23,7 @@ How to Use
 
    git clone https://github.com/Ojas-Pratap-Singh/sunbasefronted.git        
 <br>
-2)  go to index.html page and open in live server , then login in with username and password given below .
+2) go to index.html page and open in live server , then login in with username and password given below .
 
 # Log in using the following credentials:
 
