@@ -1,12 +1,12 @@
 # Sunbase Assignment Frontend Side
-Frontend side functionality for sunbase Assignment <bt>
+Frontend side functionality for sunbase Assignment <br>
 # Tech Stack Used
-HTML<bt>
-CSS<bt>
-JavaScript<bt>
-JWT Authentication<bt>
-Spring Boot (Backend)<bt>
-Java<bt>
+HTML<br>
+CSS<br>
+JavaScript<br>
+JWT Authentication<br>
+Spring Boot (Backend)<br>
+Java<br>
 # Getting Started
 
 Before you begin working on the frontend, it's essential to set up the backend. Follow the steps outlined in the backend repository to clone and configure the server-side of the application. Make sure you have the backend up and running before proceeding with the frontend.
