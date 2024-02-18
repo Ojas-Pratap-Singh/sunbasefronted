@@ -55,6 +55,11 @@ LoginForm.addEventListener("submit", function (e) {
     });
 });
 
+
+
+
+
+
 //function to display customer with pagination parameters
 function getCustomers(pageNo, rowsCount, sortBy) {
   const apiUrl = `http://localhost:8080/customer/getCustomers?pageNo=${pageNo}&rowsCount=${rowsCount}&sortBy=${sortBy}`;
@@ -390,3 +395,26 @@ function sync() {
       console.error("Error:", error);
     });
 }
+
+
+
+//pageNo logic
+const pageNo1 = document.getElementById("p1");
+const pageNo2 = document.getElementById("p2");
+const pageNo3 = document.getElementById("p3");
+const pageNo4 = document.getElementById("p4");
+
+pageNo1.addEventListener("click",()=>{
+  getCustomers(1,5,"firstName")
+})
+pageNo2.addEventListener("click",()=>{
+  getCustomers(2,5,"firstName")
+})
+
+pageNo3.addEventListener("click",()=>{
+  getCustomers(3,5,"firstName")
+})
+
+pageNo4.addEventListener("click",()=>{
+  getCustomers(4,5,"firstName")
+})
