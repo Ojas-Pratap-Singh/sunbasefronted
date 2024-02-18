@@ -7,6 +7,13 @@ JavaScript<br>
 JWT Authentication<br>
 Spring Boot (Backend)<br>
 Java<br>
+
+
+
+https://github.com/Ojas-Pratap-Singh/sunbasefronted/assets/128834924/9ad71b74-fd40-4767-abf4-9f519b219375
+
+
+
 # Getting Started
 
 Before you begin working on the frontend, it's essential to set up the backend. Follow the steps outlined in the backend repository to clone and configure the server-side of the application. Make sure you have the backend up and running before proceeding with the frontend.
@@ -20,6 +27,7 @@ git clone https://github.com/Ojas-Pratap-Singh/sunbasefronted.git
 
 Username: ojas   <br>
 Password: singh
+
 
 # backend repo link 
 
